@@ -8,7 +8,9 @@ footer{
   position: fixed;
   bottom: 0;
   font-weight: bold;
-  color: #767676c5;
+  color: #c2c2c2;
+  background-color: #555555;
+  width: 100%;
 }
 
 h2{

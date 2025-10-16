@@ -4,7 +4,7 @@ function Footer(){
   
   return (
     <footer>
-      &copy;{date.getFullYear()} Benjamin React App 
+      &copy;{date.getFullYear()} Benjamin's React App 
     </footer>
     );
 }
